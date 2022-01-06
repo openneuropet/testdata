@@ -1,2 +1,2 @@
 # testdata
-A collection of publicly publishble test imaging data.
+A collection of publicly publishable test imaging data.
